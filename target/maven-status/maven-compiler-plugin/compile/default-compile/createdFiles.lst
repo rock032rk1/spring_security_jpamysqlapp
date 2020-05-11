@@ -1,0 +1,10 @@
+com\spring\app\model\Student.class
+com\spring\app\conntroller\HomeController.class
+com\spring\app\model\UserPrincipal.class
+com\spring\app\config\WebInitialize.class
+com\spring\app\config\WebSecurityConfig.class
+com\spring\app\dao\StudentDao.class
+com\spring\app\dao\StudentDaoImpl.class
+com\spring\app\config\WebConfig.class
+com\spring\app\service\MyUserDetailsService.class
+com\spring\app\config\SecurityWebApplicationInitializer.class
